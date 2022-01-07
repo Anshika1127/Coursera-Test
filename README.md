@@ -1,2 +1,2 @@
-# Courseera-Test
+# Coursera-Test
 Coursera test
